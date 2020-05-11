@@ -1,4 +1,4 @@
-# Notes ♥
+# Notes ♡
 
 Simple notes app. You can add, edit and delete a note. 
 
